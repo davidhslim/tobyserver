@@ -1,2 +1,2 @@
 # tobyserver
-TOBT SERVER
+TOBY SERVER
